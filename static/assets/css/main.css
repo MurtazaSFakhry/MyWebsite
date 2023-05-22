@@ -3317,7 +3317,7 @@ ul.feature-icon {
 	#wrapper {
 		position: relative;
 		width: 100vw;
-		padding: 0 0 10rem 0;
+		padding: 0 0 2rem 0;
 	}
 
 		#wrapper:before {
